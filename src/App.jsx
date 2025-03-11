@@ -12,6 +12,7 @@ export default function App(){
     <div>
       
       <Header/>
+      <h1>Memory Game</h1>
       
       <GameBoard/>
       
